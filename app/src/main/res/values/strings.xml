@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JobTack</string>
+    <string name="backslabel">Are you sure you want to Exit?</string>
+    <string name="nolabel">No</string>
+    <string name="yeslabel">Yes</string>
+</resources>

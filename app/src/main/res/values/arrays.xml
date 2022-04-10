@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="usermenus">
+        <item>Jobs</item>
+        <item>Service</item>
+        <item>Parts</item>
+        <item>Users</item>
+        <item>Profile</item>
+        <item>Settings</item>
+        <item>Support</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_baseline_work</item>
+        <item>@drawable/ic_baseline_settings</item>
+        <item>@drawable/ic_parts</item>
+        <item>@drawable/ic_usermgmt</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_baseline_settings</item>
+        <item>@drawable/supporticon</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+
+    <string-array name="usermenustechnician">
+        <item>Jobs</item>
+        <item>Profile</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIconstechnician">
+        <item>@drawable/ic_baseline_work</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+
+</resources>
